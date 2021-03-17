@@ -1,4 +1,5 @@
 # React-Hospital-appointment
+Objective
 An online appointment website for hospital made by react framework. 
 Features :
 1. Represents Ui of Appointment website
@@ -13,7 +14,5 @@ Tech used:
 5.React-moment
 6.React
 
-Group Members:
 Sankalp verma - React UI development
-Bhavin S patel - Mysql 
-Jhalak Rasaily - Documentaion
+Status - Complete
